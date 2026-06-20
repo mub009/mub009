@@ -94,18 +94,16 @@
 
 ## 💀 Cybersecurity Arsenal
 
-╔══════════════════════════════════════════════════════════════╗
-║              🔐 SECURITY TOOLKIT — mub009                    ║
-╠══════════════════════════════════════════════════════════════╣
-║  ⚡ Reconnaissance   : Nmap, Shodan, theHarvester           ║
-║  💉 Exploitation     : Metasploit, SQLmap, ExploitDB        ║
-║  🌐 Web Pentesting   : Burp Suite, OWASP ZAP, Nikto         ║
-║  🔑 Password Attack  : Hashcat, Hydra, John the Ripper      ║
-║  📡 Network Analysis : Wireshark, Netcat, tcpdump           ║
-║  🕵️  OSINT            : Maltego, Recon-ng, Sherlock          ║
-║  🐚 Shell Scripting  : Bash, Python, Perl                    ║
-║  💻 OS               : Kali Linux, Parrot OS, Ubuntu        ║
-╚══════════════════════════════════════════════════════════════╝
+| | 🔐 SECURITY TOOLKIT — mub009 | |
+|---|---|---|
+| ⚡ **Reconnaissance** | Nmap · Shodan · theHarvester | 🕵️ |
+| 💉 **Exploitation** | Metasploit · SQLmap · ExploitDB | 🔓 |
+| 🌐 **Web Pentesting** | Burp Suite · OWASP ZAP · Nikto | 🔍 |
+| 🔑 **Password Attack** | Hashcat · Hydra · John the Ripper | 💥 |
+| 📡 **Network Analysis** | Wireshark · Netcat · tcpdump | 📶 |
+| 🕵️ **OSINT** | Maltego · Recon-ng · Sherlock | 👁️ |
+| 🐚 **Scripting** | Bash · Python · Perl | 🖥️ |
+| 💻 **Operating Systems** | Kali Linux · Parrot OS · Ubuntu | 🐧 |
 
 ## 🌐 Contribution Graph
 
